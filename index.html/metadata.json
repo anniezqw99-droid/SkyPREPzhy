@@ -1,0 +1,8 @@
+{
+  "name": "SkyPrep CSN | 航前协同助手",
+  "description": "南航飞行员航前准备助手，支持AI自动搜索机场运行风险，自动生成乘务、飞行协同通报模板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
